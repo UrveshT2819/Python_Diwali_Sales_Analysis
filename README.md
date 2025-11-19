@@ -26,8 +26,7 @@ File used: Diwali Sales Data.csv
 
 **▶ How to Run This Project**
 **1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name**
+https://github.com/UrveshT2819/Python_Diwali_Sales_Analysis.git**
 
 **2. Install Required Libraries**
 **pip install pandas numpy matplotlib seaborn**
